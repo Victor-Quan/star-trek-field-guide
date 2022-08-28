@@ -12,7 +12,7 @@ const aliens = {
         'features': 'Rounded ears, hair on head and face (occasional)',
         'interestingFact': 'Founded the United Federation of Planets after first contact with the Vulcans',
         'notableExamples': 'James T. Kirk, Zephram Cochran, Abraham Lincoln',
-        'image': 'https://m.media-amazon.com/images/M/MV5BNWQ0NzUyNzYtMTg0MS00ZjQ2LWIwMmQtZTIzYTBlODRkYmQwXkEyXkFqcGdeQXVyMzQ2MDUxMTg@._V1_.jpg'
+        'image': 'https://static.wikia.nocookie.net/memoryalpha/images/4/44/Dixon_Hill.jpg'
     },
     'vulcans': {
         'speciesName': 'Vulcans',
