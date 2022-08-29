@@ -28,7 +28,7 @@ const aliens = {
         'features': 'Large stature, pronounced ridges on the forehead, stylized facial hair',
         'interestingFact': 'Highly skilled warriors. Their facial ridges were lost as a result of a virus in 2154, but were restored by 2269.',
         'notableExamples': "Spock, T'Pol, Sarek",
-        'image': 'https://static.wikia.nocookie.net/memoryalpha/images/7/74/Kruge.jpg/'
+        'image': 'https://static.wikia.nocookie.net/aliens/images/7/74/Kruge.jpg'
     },
     'romulans': {
         'speciesName': 'Romulans',
